@@ -1,5 +1,6 @@
 print("================================================")
-print("ALTERRA Calculators Inc. - Precision, Productivity, Profit!")
+print("ALTERRA Calculators Inc.")
+print("Precision, Productivity, Profit!")
 print()
 #Main Calculator Stuff begins here.
 print("==================")
