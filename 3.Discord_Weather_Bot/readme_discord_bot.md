@@ -1,4 +1,5 @@
 =================PROJECT BRIEF=================
+
 This is a low traffic, low overhead discord Weather Bot built as the final project of the CodeDex Python Course.
 
 It runs on discord.py and uses the OpenWeatherMap.org's API and is rated for 1000 Requests per day following which it will shut down on its own.
