@@ -1,0 +1,270 @@
+tconst,titleType,primaryTitle,startYear,runtimeMinutes,genres,averageRating,numVotes,title,region,language,isOriginalTitle,english_grammar_signal,era,log_numVotes
+tt0069204,movie,Sabse Bada Sukh,1972,114,"Comedy,Drama",6.0,21,Subse Bada Sukh,IN,bn,0,False,Classics,1.3424226808222062
+tt0070047,movie,The Exorcist,1973,122,Horror,8.1,493902,The Exorcist,IN,bn,0,True,Classics,5.693641664103416
+tt0070047,movie,The Exorcist,1973,122,Horror,8.1,493902,Shoitan Raat,IN,bn,0,True,Classics,5.693641664103416
+tt0073191,movie,Jai Santoshi Maa,1975,145,"Drama,Fantasy",6.6,242,Joy Sontoshi Maa,IN,bn,0,False,Classics,2.385606273598312
+tt0078170,movie,Roads to the South,1978,100,Drama,5.5,291,Putevi na Jug,BD,bn,0,True,Classics,2.4653828514484184
+tt0080376,movie,Barsaat Ki Ek Raat,1981,142,"Romance,Thriller",6.1,416,Anusandhan,IN,bn,0,False,Classics,2.6201360549737576
+tt0080856,movie,The Kingdom of Diamonds,1980,118,"Comedy,Drama,Family",8.8,3389,Heerak Rajar Deshe,IN,bn,0,True,Classics,3.530199698203082
+tt0083987,movie,Gandhi,1982,191,"Biography,Drama,History",8.0,246436,Gandhi,IN,bn,0,False,Classics,5.39170591327112
+tt0086154,movie,Psycho II,1983,113,"Crime,Horror,Mystery",6.6,34574,Psycho II,IN,bn,0,False,Classics,4.538762188781348
+tt0086250,movie,Scarface,1983,170,"Crime,Drama",8.3,1002669,Scarface,IN,bn,0,False,Classics,6.001158020995687
+tt0087277,movie,Footloose,1984,107,"Drama,Music,Romance",6.6,100915,Footloose,IN,bn,0,False,Classics,5.003960028088548
+tt0087332,movie,Ghostbusters,1984,105,"Action,Comedy,Fantasy",7.8,483028,Ghostbusters,IN,bn,0,False,Classics,5.683973205620856
+tt0088847,movie,The Breakfast Club,1985,97,"Comedy,Drama",7.8,468744,The Breakfast Club,IN,bn,0,True,Classics,5.670936648236595
+tt0088939,movie,The Color Purple,1985,154,Drama,7.7,103232,The Color Purple,IN,bn,0,True,Classics,5.013818548327848
+tt0090329,movie,Witness,1985,112,"Crime,Drama,Romance",7.3,112707,Witness,IN,bn,0,False,Classics,5.051954743309174
+tt0091445,movie,Lucas,1986,100,"Comedy,Drama,Romance",6.9,18710,Lucas,IN,bn,0,False,Classics,4.272096998770794
+tt0092099,movie,Top Gun,1986,110,"Action,Drama",7.0,544991,Top Gun,IN,bn,0,False,Classics,5.736390127264981
+tt0092263,movie,A Better Tomorrow,1986,95,"Action,Crime,Drama",7.4,28118,Ēkaṭi sundara āgāmī,BD,bn,0,False,Classics,4.4489998717459285
+tt0093748,movie,"Planes, Trains & Automobiles",1987,93,"Comedy,Drama",7.6,179167,"Bimana, Trena Ebam Atomobaila",IN,bn,0,False,Classics,5.25326044581489
+tt0094721,movie,Beetlejuice,1988,92,"Comedy,Fantasy",7.4,414629,Bitera Rasa,IN,bn,0,False,Classics,5.617660721692005
+tt0095765,movie,Cinema Paradiso,1988,174,"Drama,Romance",8.5,314377,Cinema Paradiso,IN,bn,0,False,Classics,5.4974521467410895
+tt0095953,movie,Rain Man,1988,133,Drama,8.0,579381,Rain Man,IN,bn,0,False,Classics,5.762964998596246
+tt0096028,movie,Salaam Bombay!,1988,113,"Crime,Drama",7.9,10995,Sâlâma Bombê,IN,bn,0,False,Classics,4.041234731171431
+tt0099429,movie,Dil,1990,172,"Comedy,Drama,Romance",6.6,6111,Dil,IN,bn,0,False,Classics,3.7861833455676335
+tt0099487,movie,Edward Scissorhands,1990,105,"Drama,Fantasy,Romance",7.8,560812,Edward Scissorhands,IN,bn,0,False,Classics,5.748818072296026
+tt0099785,movie,Home Alone,1990,103,"Comedy,Family",7.8,734879,Home Alone,IN,bn,0,False,Classics,5.866216428073848
+tt0099785,movie,Home Alone,1990,103,"Comedy,Family",7.8,734879,My Poor Little Angel,BD,bn,0,False,Classics,5.866216428073848
+tt0101279,movie,The Stranger,1991,97,Drama,8.0,4690,Agantuk,IN,bn,0,True,Classics,3.6712654329471586
+tt0103772,movie,Basic Instinct,1992,127,"Drama,Mystery,Romance",7.1,240475,Basic Instinct,IN,bn,0,False,Classics,5.381071739388976
+tt0103776,movie,Batman Returns,1992,126,"Action,Crime,Fantasy",7.1,347919,Batman Returns,IN,bn,0,False,Classics,5.541479394657279
+tt0103874,movie,Dracula,1992,128,"Fantasy,Horror,Romance",7.4,266053,Dracula,IN,bn,0,False,Classics,5.424969792728393
+tt0104257,movie,A Few Good Men,1992,138,"Drama,Thriller",7.7,313398,A Few Good Men,IN,bn,0,False,Classics,5.496097606378982
+tt0106918,movie,The Firm,1993,154,"Drama,Mystery,Thriller",6.9,159896,The Firm,IN,bn,0,True,Classics,5.2038403155556905
+tt0108329,movie,Thiruda Thiruda,1993,140,"Action,Crime,Drama",7.1,1544,Thiruda Thiruda,IN,bn,0,False,Classics,3.1889284837608534
+tt0110367,movie,Little Women,1994,115,"Drama,Family,Romance",7.3,68399,Little Women,IN,bn,0,False,Classics,4.835056101720117
+tt0111559,movie,Unishe April,1994,138,Drama,7.7,640,Unishe April,IN,bn,0,False,Classics,2.8068580295188172
+tt0112642,movie,Casper,1995,100,"Comedy,Family,Fantasy",6.2,158427,Casper,IN,bn,0,False,Classics,5.199831939695715
+tt0113311,movie,It's a Long Way to the Sea,1995,106,Drama,7.7,120,Xagoroloi Bohudoor,IN,bn,0,True,Classics,2.0827853703164503
+tt0139876,movie,Baasha,1995,145,"Action,Crime,Drama",8.3,13439,Baashha,IN,bn,0,False,Classics,4.128399268717806
+tt0155813,movie,Kokadeuta Nati Aru Hati,1983,,Drama,8.0,10,Dadu Nati-o-Hati,IN,bn,0,False,Classics,1.0413926851582251
+tt0172089,movie,Aatank Hi Aatank,1995,155,"Action,Crime,Drama",4.5,978,Atanker Din Ratri,IN,bn,0,False,Classics,2.9907826918031377
+tt0178171,movie,Aakhri Baazi,1989,149,"Action,Drama,Family",4.4,70,Mastan,IN,bn,0,False,Classics,1.8512583487190752
+tt0215175,movie,Seyi Chokh,1976,129,Romance,7.3,22,Sei Choka,IN,bn,0,False,Classics,1.3617278360175928
+tt0215711,movie,Debi Chowdhurani,1974,,Drama,7.5,25,Devi Chaudhurani,IN,bn,0,False,Classics,1.414973347970818
+tt0216132,movie,Raag Anurag,1975,,Drama,7.9,12,Rag Anurag,IN,bn,0,False,Classics,1.1139433523068367
+tt0216141,movie,Rashifal,1984,,Drama,8.2,12,Rashiphal,IN,bn,0,False,Classics,1.1139433523068367
+tt0232168,movie,Naukadubi,1979,,Drama,8.6,23,Noukadubi,IN,bn,0,False,Classics,1.380211241711606
+tt0237254,movie,Fuleswari,1974,,"Drama,Musical,Romance",8.5,39,Phuleswari,IN,bn,0,False,Classics,1.6020599913279623
+tt0237385,movie,Kothachilo,1994,,Drama,9.0,13,Katha Chhilo,IN,bn,0,False,Classics,1.146128035678238
+tt0237694,movie,Sansar Seemantey,1975,126,Drama,8.9,20,Sansar Simante,IN,bn,0,False,Classics,1.3222192947339193
+tt0267905,movie,Sangram,1993,156,"Action,Drama,Romance",3.7,283,Sesh Sangram,IN,bn,0,False,Classics,2.4533183400470375
+tt0268117,movie,Aar Paar,1985,145,"Action,Drama",7.1,76,Abichar,BD,bn,0,False,Classics,1.8864907251724818
+tt0268117,movie,Aar Paar,1985,145,"Action,Drama",7.1,76,Anyay Abichar,BD,bn,0,False,Classics,1.8864907251724818
+tt0268117,movie,Aar Paar,1985,145,"Action,Drama",7.1,76,Anyay Abichar,IN,bn,0,False,Classics,1.8864907251724818
+tt0268117,movie,Aar Paar,1985,145,"Action,Drama",7.1,76,Onnay Obichar,BD,bn,0,False,Classics,1.8864907251724818
+tt0268141,movie,Ananda Ashram,1977,127,"Drama,Family",7.4,209,Ananda Ashram,IN,bn,0,False,Classics,2.322219294733919
+tt0268273,movie,Dushman,1990,146,"Action,Drama",6.3,75,Andha Bichar,IN,bn,0,False,Classics,1.8808135922807914
+tt0310712,movie,Bancharamer Bagan,1980,133,"Comedy,Drama,Family",8.2,341,Bancharamer Bagan,IN,bn,0,False,Classics,2.534026106056135
+tt0359771,movie,Surja Dighal Bari,1979,131,Drama,8.7,408,Shurjo Deeghol Bari,BD,bn,0,False,Classics,2.611723308007342
+tt0363421,movie,Amar Tumi,1989,142,"Drama,Musical",7.1,16,Amar Tumi,IN,bn,0,False,Classics,1.2304489213782739
+tt1524567,movie,Pratigna,1985,120,"Action,Drama",7.4,13,Pratigya,IN,bn,0,False,Classics,1.146128035678238
+tt1587110,movie,Ae Korechho Bhalo,1970,115,Drama,6.6,9,Eai Korchho Bhalo,IN,bn,0,False,Classics,1.0
+tt1587110,movie,Ae Korechho Bhalo,1970,115,Drama,6.6,9,Ei Korechho Bhalo,IN,bn,0,False,Classics,1.0
+tt1587127,movie,Chander Kachhakachhi,1976,,Drama,8.1,13,Chander Kachakachi,IN,bn,0,False,Classics,1.146128035678238
+tt1589968,movie,Amar Shapath,1989,,Drama,7.9,15,Aamar Shapath,IN,bn,0,False,Classics,1.2041199826559248
+tt1590141,movie,Pennam Calcutta,1992,150,Drama,4.8,8,Pennam Kolkata,IN,bn,0,False,Classics,0.9542425094393249
+tt1591038,movie,Mon Mane Na,1993,,Romance,6.6,37,Mon Manena,IN,bn,0,False,Classics,1.5797835966168101
+tt1591078,movie,Rupban Kanya,1992,,Drama,5.9,12,Rupaban Kanya,IN,bn,0,False,Classics,1.1139433523068367
+tt1593673,movie,Ekanto Apon,1987,145,Drama,7.4,39,Ekanta Apan,IN,bn,0,False,Classics,1.6020599913279623
+tt1594524,movie,Ora Charjan,1988,130,Drama,6.3,13,Ora Charjon,IN,bn,0,False,Classics,1.146128035678238
+tt2669244,movie,Pehredaar,1979,,"Action,Romance",5.1,11,Prohari,IN,bn,0,False,Classics,1.0791812460476249
+tt4052198,movie,Shontrash,1991,150,"Action,Crime,Drama",5.4,10,Sontras,BD,bn,0,False,Classics,1.0413926851582251
+tt5180244,movie,Miss Bangkok,1986,,"Action,Romance",6.2,8,Jibon Porikkha,BD,bn,0,False,Classics,0.9542425094393249
+tt5245160,movie,Rajlokkhi Srikanto,1987,,"Drama,Romance",8.4,31,Rajlaxmi Srikanto,BD,bn,0,False,Classics,1.505149978319906
+tt5349762,movie,Dangga,1992,140,"Action,Crime,Drama",6.3,20,Danga,BD,bn,0,False,Classics,1.3222192947339193
+tt5435506,movie,Ochena,1991,161,Drama,6.5,10,Achena,BD,bn,0,False,Classics,1.0413926851582251
+tt5606174,movie,Love Story,1995,156,"Drama,Romance",8.4,12,Premer Golpo,BD,bn,0,False,Classics,1.1139433523068367
+tt5609530,movie,Dangga Fasaad,1993,,Drama,6.6,9,Danga Fasad,BD,bn,0,False,Classics,1.0
+tt5613302,movie,Onno Jibon,1995,,Drama,7.1,19,Anya Jibon,BD,bn,0,False,Classics,1.3010299956639813
+tt5645470,movie,Tin Konya,1985,,"Action,Drama",6.8,33,Teen Kanya,BD,bn,0,False,Classics,1.5314789170422551
+tt5782250,movie,Nawab Sirajuddaula,1989,,History,7.9,19,Nawab Sirajuddaula (Rongin),BD,bn,0,False,Classics,1.3010299956639813
+tt5782250,movie,Nawab Sirajuddaula,1989,,History,7.9,19,Rongin Nawab Sirajuddaula,BD,bn,0,False,Classics,1.3010299956639813
+tt5894938,movie,Jaltey Suraj Ke Nichey,1971,,Drama,7.7,8,Ujjal Shurjer Nichey,BD,bn,0,False,Classics,0.9542425094393249
+tt6573392,movie,Jinjir,1979,148,"Action,Drama",7.0,6,Jinzir,BD,bn,0,False,Classics,0.8450980400142568
+tt6707592,movie,Top Rangbaaz,1991,,Action,5.0,8,Top Rongbaz,BD,bn,0,False,Classics,0.9542425094393249
+tt6832032,movie,Laily Majnu,1983,140,"Drama,Fantasy,Musical",5.6,10,Lailee Majnu,BD,bn,0,False,Classics,1.0413926851582251
+tt0169102,movie,Lagaan: Once Upon a Time in India,2001,224,"Drama,Musical,Sport",8.1,128568,Lagaan,IN,bn,0,True,Modern,5.109136266007377
+tt0213847,movie,Malena,2000,108,"Drama,Romance,War",7.4,123579,Malèna,IN,bn,0,False,Modern,5.0919481908785595
+tt0307479,movie,Solaris,2002,99,"Drama,Mystery,Romance",6.2,88794,Solaris,IN,bn,0,False,Modern,4.9483885115720065
+tt0317811,movie,Kasam,2001,210,"Action,Drama",2.8,153,Phool Aur Phatthar,BD,bn,0,False,Modern,2.187520720836463
+tt0319836,movie,The Clay Bird,2002,95,"Drama,History",8.4,4385,Matir moina,IN,bn,0,True,Modern,3.642068627341504
+tt0322004,movie,Devdas,2002,140,"Drama,Romance",7.2,111,Debdas,IN,bn,0,False,Modern,2.0492180226701815
+tt0360960,movie,Shadows of Time,2004,122,"Drama,Romance",7.6,1174,Schatten der Zeit,IN,bn,0,True,Modern,3.070037866607755
+tt0366304,movie,Choker Bali: A Passion Play,2003,167,Drama,7.2,2127,Chokher Bali,IN,bn,0,False,Modern,3.3279716236230104
+tt0366993,movie,Saanjhbatir Roopkathara,2002,120,"Drama,Family",7.2,164,Saanjhbatir Roopkathara,IN,bn,0,False,Modern,2.2174839442139063
+tt0368896,movie,Nijam,2003,196,"Action,Drama",6.6,2225,Amar Protishodh,IN,bn,0,False,Modern,3.3475251599986895
+tt0383386,movie,Guru,2003,162,"Action,Reality-TV",5.0,145,Deep,BD,bn,0,False,Modern,2.164352855784437
+tt0383386,movie,Guru,2003,162,"Action,Reality-TV",5.0,145,Raja,IN,bn,0,False,Modern,2.164352855784437
+tt0385977,movie,Raasta,2003,110,"Action,Drama",6.7,29,Rasta,IN,bn,0,False,Modern,1.4771212547196624
+tt0390624,movie,Whistle,2003,153,Horror,5.6,214,Atanka,IN,bn,0,False,Modern,2.3324384599156054
+tt0405024,movie,Hum Kaun Hai?,2004,119,"Drama,Horror,Mystery",3.6,415,Ora Kara,IN,bn,0,False,Modern,2.6190933306267428
+tt0429607,movie,Assassin,2004,120,Drama,8.4,14,Atotayee,IN,bn,0,False,Modern,1.1760912590556813
+tt0446159,movie,Mitti,2001,155,"Action,Drama",5.6,39,Oh Kolkata,IN,bn,0,False,Modern,1.6020599913279623
+tt0824696,movie,A Movie of Eggs,2005,90,"Animation,Comedy,Family",6.6,1651,Ēkaṭi ḍima calaccitra,BD,bn,0,True,Modern,3.218010042984363
+tt0853142,movie,Podokkhep,2006,90,Drama,7.4,58,Padakshep,IN,bn,0,False,Modern,1.7708520116421442
+tt0872123,movie,Forever Flows,2006,95,Drama,7.4,250,Nirontor,IN,bn,0,False,Modern,2.399673721481038
+tt10334624,movie,Aruvam,2019,128,"Comedy,Horror",4.7,1028,Awsoriri,IN,bn,0,False,Modern,3.012415374762433
+tt1039969,movie,The Last Lear,2007,130,Drama,6.9,1189,Aajker Shahjahan,IN,bn,0,True,Modern,3.0755469613925306
+tt10482072,movie,Mayar Jonjal,2020,101,"Crime,Drama",7.6,103,Mayar Jonjal,IN,bn,0,False,Modern,2.0170333392987803
+tt1084045,movie,On the Wings of Dreams,2007,84,Drama,7.0,169,Swopnodanay,IN,bn,0,True,Modern,2.230448921378274
+tt10940334,movie,Prati Roju Pandaage,2019,146,"Drama,Family",6.4,1491,Jibon Ek Utsab,IN,bn,0,False,Modern,3.17376882313665
+tt1210817,movie,Kotha Bangaru Lokam,2008,160,Romance,6.9,784,Olpo Olpo Premer Golpo,IN,bn,0,False,Modern,2.8948696567452528
+tt12381206,movie,Once Upon a Time in Calcutta,2021,140,Drama,6.8,183,Once upon a time in Kolkata,IN,bn,0,True,Modern,2.2648178230095364
+tt12381206,movie,Once Upon a Time in Calcutta,2021,140,Drama,6.8,183,Mayanagar,IN,bn,0,True,Modern,2.2648178230095364
+tt12986942,movie,Tiki Taka,2020,104,"Comedy,Sport",6.9,3043,Khelechi Aajgubi,IN,bn,0,False,Modern,3.4834446480985353
+tt1305803,movie,King,2008,131,"Action,Comedy,Crime",6.5,1619,Dada Thakur,IN,bn,0,False,Modern,3.2095150145426308
+tt13717916,movie,My Father Mujib,2021,49,"Animation,Biography",4.6,99,Mujib Amar Pita,BD,bn,0,False,Modern,2.0
+tt1390851,movie,Sathi,2002,136,"Drama,Musical,Romance",7.4,1357,Saathee,IN,bn,0,False,Modern,3.132899769944483
+tt1390851,movie,Sathi,2002,136,"Drama,Musical,Romance",7.4,1357,Saathi,IN,bn,0,False,Modern,3.132899769944483
+tt1390851,movie,Sathi,2002,136,"Drama,Musical,Romance",7.4,1357,Sathee,IN,bn,0,False,Modern,3.132899769944483
+tt1398914,movie,10:10,2008,95,"Comedy,Drama",8.2,65,Dashe Dash,IN,bn,0,False,Modern,1.8195439355418688
+tt1398914,movie,10:10,2008,95,"Comedy,Drama",8.2,65,Dashta Dash,IN,bn,0,False,Modern,1.8195439355418688
+tt1407929,movie,Aaynate,2008,145,"Family,Romance",7.2,12,Aainaate,IN,bn,0,False,Modern,1.1139433523068367
+tt1409078,movie,Biyer Lagna,2008,165,Drama,7.2,17,Mayer Moto Bhabi,BD,bn,0,False,Modern,1.255272505103306
+tt14256386,movie,Damal,2022,122,"History,Sport",7.1,881,Damal,IN,bn,0,False,Modern,2.94546858513182
+tt14407884,movie,Mujib: The Making of Nation,2023,176,"Biography,Drama,History",4.4,6255,Mujib: Ekti Jatir Rupokar,BD,bn,0,True,Modern,3.7962967400517917
+tt14488882,movie,Fire of Teak Flame of Chinar,2021,121,Drama,8.0,34,"Priyo Chinar Pata, Iti Segun",IN,bn,0,True,Modern,1.5440680443502757
+tt1464607,movie,Yuddha,2005,154,Action,6.0,228,Yuddho,IN,bn,0,False,Modern,2.359835482339888
+tt1506994,movie,Kudessan,2015,120,"Drama,Family",8.2,21,Kudesan,IN,bn,0,False,Modern,1.3424226808222062
+tt1525890,movie,The Caller,2011,92,"Drama,Horror,Mystery",6.0,12728,The Caller,IN,bn,0,True,Modern,4.104794286486278
+tt15334030,movie,Martin,2024,147,"Action,Drama,Thriller",2.2,36496,Martin,IN,bn,0,False,Modern,4.562257167552589
+tt15353948,movie,Lockdown,2021,,Romance,6.5,13,Lockdown 2021,IN,bn,0,False,Modern,1.146128035678238
+tt15354916,movie,Jawan,2023,169,"Action,Crime,Drama",6.9,109896,Jawan,BD,bn,0,False,Modern,5.040985837089289
+tt15398776,movie,Oppenheimer,2023,180,"Biography,Drama,History",8.2,995833,Oppenheimer,IN,bn,0,False,Modern,5.9981869499775105
+tt15433040,movie,No Ground Beneath the Feet [Payer Tolay Mati Nai],2021,91,Drama,6.8,19,Payer Tolay Mati nai,BD,bn,0,True,Modern,1.3010299956639813
+tt15610592,movie,The Wrestler,2023,91,"Drama,Mystery,Sport",7.7,34,Boli,BD,bn,0,True,Modern,1.5440680443502757
+tt1582519,movie,Khaleja,2010,170,"Action,Comedy,Fantasy",7.6,10928,Ekai Eksho,IN,bn,0,False,Modern,4.0385804259615785
+tt1583218,movie,Allari Ramudu,2002,156,"Action,Comedy,Drama",3.9,551,Sajani,IN,bn,0,False,Modern,2.741939077729199
+tt15964372,movie,Aparajito,2022,138,"Biography,Drama,Family",8.7,5581,Aparajito,IN,bn,0,False,Modern,3.7467898321526123
+tt16539454,movie,Pushpa: The Rule - Part 2,2024,201,"Action,Crime,Drama",6.1,65595,Pushpa: The Rule - Part 2,IN,bn,0,True,Modern,4.816877357197421
+tt1847680,movie,Runaway,2012,90,Drama,7.9,388,Udhao,BD,bn,0,False,Modern,2.5899496013257077
+tt1847680,movie,Runaway,2012,90,Drama,7.9,388,Udhao,IN,bn,0,False,Modern,2.5899496013257077
+tt18777212,movie,The Hungarian Dressmaker,2024,129,Drama,5.8,313,The Hungarian Dressmaker,IN,bn,0,True,Modern,2.496929648073215
+tt19050402,movie,Nuts About Squirrels,2012,,Documentary,7.6,11,Squirrls Pistov,BD,bn,0,False,Modern,1.0791812460476249
+tt1946280,movie,Noukadubi,2011,135,"Drama,Romance",7.7,1139,Noukadubi (Boat Wreck),IN,bn,0,False,Modern,3.0569048513364727
+tt1954818,movie,Shatru,2011,150,"Action,Crime,Drama",5.9,434,Shatru,IN,bn,0,False,Modern,2.6384892569546374
+tt2002868,movie,Anegan,2015,154,"Action,Romance,Thriller",6.7,4375,Mon Majhi Re,IN,bn,0,False,Modern,3.641077313325374
+tt2009491,movie,Hindustani Sipahi,2002,128,Action,6.8,20,Ferari Fauj,IN,bn,0,False,Modern,1.3222192947339193
+tt2022439,movie,Kemiti a Bandhan,2011,,"Action,Drama,Romance",7.7,9,Bhalabasar Bandhan,IN,bn,0,False,Modern,1.0
+tt2075108,movie,22 Shey Shraban,2011,139,"Action,Crime,Drama",8.1,6673,22shey Sraban,IN,bn,0,False,Modern,3.824386202318774
+tt2098782,movie,Pilla Zamindar,2011,148,"Comedy,Drama",7.8,3893,Son of Zamindar,IN,bn,0,False,Modern,3.590395947184013
+tt2187003,movie,Afterglow,2012,113,"Drama,Romance",6.5,148,Resh,IN,bn,0,False,Modern,2.173186268412274
+tt22054994,movie,Mirza: Part 1 - Joker,2024,165,"Action,Crime,Drama",6.8,251,Mirza,IN,bn,0,False,Modern,2.401400540781544
+tt22804850,movie,The Sand Castle,2024,98,"Drama,Fantasy,Mystery",4.7,1874,Bālira durga,IN,bn,0,True,Modern,3.2730012720637376
+tt2294567,movie,Dhammu,2012,155,"Action,Drama",4.9,2532,Suryavaanshi the Family,IN,bn,0,False,Modern,3.403635189790548
+tt2354956,movie,Shyamal Uncle Turns Off the Lights,2012,65,Drama,6.6,33,"Shyamal Kaku, Korpreshaner Baati, Ebong",IN,bn,0,True,Modern,1.5314789170422551
+tt2358925,movie,Unfinished Business,2015,91,"Comedy,Drama",5.4,36840,Nedovrseni posao,BD,bn,0,False,Modern,4.566331410031534
+tt23746096,movie,Clown,2022,100,Drama,8.9,33,Clown (Bengali 2022),IN,bn,0,False,Modern,1.5314789170422551
+tt23840698,movie,A Tale of Two Sisters,2023,100,"Drama,War",6.3,27,Nakshi Kanthar Jomin,BD,bn,0,True,Modern,1.4471580313422192
+tt23840726,movie,Memories of Gloomy Monsoons,2023,97,"Drama,Family",8.8,85,Saatao,BD,bn,0,True,Modern,1.9344984512435677
+tt2409642,movie,Ghetuputra Komola,2012,101,"Drama,Musical",7.5,2035,Ghetu Putro Komola,IN,bn,0,False,Modern,3.3087777736647213
+tt2511784,movie,Ek Nadir Galpo,2008,124,Drama,8.4,57,Ek Nadir Galpo,IN,bn,0,False,Modern,1.7634279935629373
+tt2617676,movie,Thalaivaa,2013,179,"Action,Crime,Drama",6.3,12699,Sarkar,IN,bn,0,False,Modern,4.103803720955957
+tt2641792,movie,Hing Ting Chot,2010,122,"Comedy,Fantasy,Romance",7.1,16,Hing Ting Chhawt,IN,bn,0,False,Modern,1.2304489213782739
+tt2641910,movie,Jaani Dyakha Hawbe,2011,104,"Drama,Musical,Romance",5.5,155,Jani Dekha Hobe,IN,bn,0,False,Modern,2.1931245983544616
+tt26439764,movie,Kantara: A Legend - Chapter 1,2025,165,"Action,Fantasy,Thriller",8.2,53560,Kantara: Chapter 1,IN,bn,0,False,Modern,4.728848676824431
+tt26591189,movie,The Plot,2024,100,"Action,Crime,Thriller",4.8,518,The Plot,IN,bn,0,True,Modern,2.7151673578484576
+tt27122972,movie,Postmaster 71,2018,128,"Drama,War",4.2,8,Postmaster Ekattor,BD,bn,0,False,Modern,0.9542425094393249
+tt27480960,movie,The Scent of Sin,2023,91,"Drama,Thriller",4.3,87,Peyarar Subash,BD,bn,0,True,Modern,1.9444826721501687
+tt27561990,movie,Dasham Avatar,2023,151,"Action,Thriller",5.9,1853,Dawshom Awbotaar,IN,bn,0,False,Modern,3.2681097298084785
+tt2848560,movie,Rupkatha Noy,2013,111,"Drama,Thriller",6.9,213,Rupkatha Noy,IN,bn,0,False,Modern,2.330413773349191
+tt29229738,movie,Manush: Child of Destiny,2023,124,"Action,Drama",7.5,341,Manush,IN,bn,0,True,Modern,2.534026106056135
+tt29546537,movie,Bogla Mama,2023,147,"Comedy,Drama",6.1,228,Bogla Mama Jug Jug Jiyo,IN,bn,0,False,Modern,2.359835482339888
+tt29674465,movie,Dard,2024,156,"Drama,Thriller",6.6,2100,Dorod,BD,bn,0,False,Modern,3.3224260524059526
+tt2999342,movie,Pora Mon,2013,,Romance,6.0,206,Poramon,BD,bn,0,False,Modern,2.315970345456918
+tt30777379,movie,Pariah Volume 1: Every Street Dog Has a Name,2024,138,Action,6.8,404,Pariah,IN,bn,0,False,Modern,2.6074550232146687
+tt3091982,movie,Jaaneman,2012,163,"Action,Drama,Musical",5.3,238,Janeman,IN,bn,0,False,Modern,2.3783979009481375
+tt3119172,movie,Bakita Byaktigato,2013,145,Drama,7.9,589,Bakita Byaktigoto,IN,bn,0,False,Modern,2.7708520116421442
+tt31262851,movie,Beautiful Lies,2024,,Drama,4.4,6,Fereshte,BD,bn,0,False,Modern,0.8450980400142568
+tt31841259,movie,It's Never Just Sex,2024,,"Comedy,Romance",3.8,111,It's Never Just Sex,IN,bn,0,False,Modern,2.0492180226701815
+tt31939190,movie,Devastated,2024,86,Drama,8.4,10,Vidhvastha,IN,bn,0,False,Modern,1.0413926851582251
+tt32433566,movie,Qodrat 2,2025,115,"Action,Drama,Fantasy",6.5,1004,Qodrat 2,BD,bn,0,False,Modern,3.002166061756508
+tt32915470,movie,Norma: Antara Mertua dan Menantu,2025,134,"Drama,Romance",5.7,445,Norma: Antara Mertua dan Menantu,BD,bn,0,False,Modern,2.649334858712142
+tt3313734,movie,Shunte Ki Pao!,2012,90,Documentary,8.6,97,Are You Listening!,BD,bn,0,False,Modern,1.9912260756924949
+tt33240625,movie,Tabayyun,2025,112,Drama,6.6,42,Tabayyun,BD,bn,0,False,Modern,1.6334684555795864
+tt33244849,movie,Lebih dari Selamanya,2025,96,"Drama,Romance",7.1,51,Lebih dari Selamanya,BD,bn,0,False,Modern,1.7160033436347992
+tt33349813,movie,La Tahzan,2025,139,"Drama,Romance",5.8,212,La Tahzan,BD,bn,0,False,Modern,2.3283796034387376
+tt33771507,movie,Wanita Ahli Neraka,2024,95,Horror,5.0,372,Wanita Ahli Neraka,BD,bn,0,False,Modern,2.571708831808688
+tt34188079,movie,Dasim,2025,99,Horror,5.0,121,Dasim,BD,bn,0,False,Modern,2.0863598306747484
+tt34984721,movie,Tenung,2025,92,"Drama,Horror",5.5,109,Tenung,BD,bn,0,False,Modern,2.041392685158225
+tt35503482,movie,Shadowbox,2025,93,Drama,6.8,36,Baksho Bondi,IN,bn,0,False,Modern,1.568201724066995
+tt35624450,movie,Whisper My Name,2025,109,Drama,6.3,345,Whisper My Name,IN,bn,0,False,Modern,2.5390760987927767
+tt3563156,movie,Anjaan,2014,166,"Action,Crime,Drama",5.4,6686,Bohurupi,IN,bn,0,False,Modern,3.8252313231999002
+tt35682998,movie,Waktu Maghrib 2,2025,107,"Horror,Mystery,Thriller",5.8,361,Waktu Maghrib 2,BD,bn,0,False,Modern,2.558708570533166
+tt35703227,movie,Singsot,2025,75,Horror,4.8,277,Singsot,BD,bn,0,False,Modern,2.444044795918076
+tt36217095,movie,Penjagal Iblis: Dosa Turunan,2025,99,"Action,Crime,Fantasy",5.5,142,Penjagal Iblis: Dosa Turunan,BD,bn,0,False,Modern,2.155336037465062
+tt36553680,movie,Andai Ibu Tidak Menikah Dengan Ayah,2025,119,Drama,7.0,238,Andai Ibu Tidak Menikah Dengan Ayah,BD,bn,0,False,Modern,2.3783979009481375
+tt37317285,movie,Assalamualaikum Baitullah,2025,101,"Drama,Romance",6.6,47,Assalamualaikum Baitullah,BD,bn,0,False,Modern,1.6812412373755872
+tt37692651,movie,Kampung Jabang Mayit: Ritual Maut,2025,92,Horror,5.3,84,Kampung Jabang Mayit: Ritual Maut,BD,bn,0,False,Modern,1.9294189257142926
+tt3802668,movie,Govindudu Andari Vaadele,2014,160,"Action,Comedy,Drama",5.7,3139,Sesh Abhimaan,IN,bn,0,False,Modern,3.496929648073215
+tt4061558,movie,Yoddha the Warrior,2014,151,"Action,Drama,Fantasy",4.0,516,Joddha,IN,bn,0,True,Modern,2.7134905430939424
+tt4175960,movie,Unknown Love,2015,123,"Action,Drama,Musical",7.3,26,Ochena Hridoy,BD,bn,0,False,Modern,1.4313637641589874
+tt4182282,movie,Young Wrestlers,2016,90,"Documentary,Family",6.4,212,Young Wrestlers,IN,bn,0,False,Modern,2.3283796034387376
+tt4208710,movie,Romeo Vs Juliet,2015,120,"Action,Drama,Romance",4.8,309,Romeo Bonam Juliet,BD,bn,0,False,Modern,2.4913616938342726
+tt4257084,movie,Gaariwala,2014,85,"Drama,Family",7.1,60,Gaariwala,BD,bn,0,False,Modern,1.7853298350107671
+tt4328756,movie,Ebar Shabor,2015,124,"Crime,Mystery,Thriller",7.2,1727,Ebar Shobor,IN,bn,0,False,Modern,3.2375437381428744
+tt4658770,movie,Belaseshe,2015,141,"Drama,Family",8.5,3107,Bela Seshe,IN,bn,0,False,Modern,3.4924810101288766
+tt4658770,movie,Belaseshe,2015,141,"Drama,Family",8.5,3107,Bela Sheshe,IN,bn,0,False,Modern,3.4924810101288766
+tt4718728,movie,Gadaar: The Traitor,2015,126,Thriller,6.2,128,Gaddar: The Traitor,IN,bn,0,True,Modern,2.110589710299249
+tt4829728,movie,Kalkijug,2015,116,Thriller,6.4,48,Kalkiyug,IN,bn,0,False,Modern,1.6901960800285136
+tt5195922,movie,Swami Chhintai,2004,154,"Action,Drama,Romance",5.8,14,Shami Chintai,IN,bn,0,False,Modern,1.1760912590556813
+tt5247578,movie,Nondito Noroke,2006,,"Drama,Family",8.0,228,Nandito Narokey,BD,bn,0,False,Modern,2.359835482339888
+tt5311514,movie,Your Name.,2016,106,"Animation,Drama,Fantasy",8.4,383043,Your Name,IN,bn,0,False,Modern,5.583248663941587
+tt5457772,movie,Sarrainodu,2016,126,"Action,Drama",6.6,8664,Himmat,IN,bn,0,False,Modern,3.9377685670499356
+tt5513920,movie,Doob - No Bed of Roses,2017,85,Drama,6.1,2188,Doob,BD,bn,0,True,Modern,3.3402457615679317
+tt5523174,movie,Pichaikkaran,2016,130,"Action,Drama",7.6,2983,Bichagadu: The Billionaire,IN,bn,0,False,Modern,3.474798818800631
+tt5568764,movie,Cholai,2016,97,Comedy,6.9,117,Cholai,IN,bn,0,False,Modern,2.0718820073061255
+tt5789652,movie,71 Er Ma Jononi,2014,122,"Drama,War",8.2,8,Ekattor Er Maa Jononi,BD,bn,0,False,Modern,0.9542425094393249
+tt5789882,movie,Ostittey Amar Desh,2007,,War,7.6,18,Astittey Amar Desh,BD,bn,0,False,Modern,1.2787536009528289
+tt5807544,movie,Rainbow Fields,2018,90,Drama,7.3,15,Xhoixobote Dhemalite,IN,bn,0,False,Modern,1.2041199826559248
+tt5868150,movie,Incomplete,2017,120,Drama,5.5,185,Asamapta,IN,bn,0,False,Modern,2.2695129442179165
+tt5940384,movie,Bilu: A Demon Within,2017,128,"Drama,Fantasy",6.8,282,Bilu Rakkhosh,IN,bn,0,False,Modern,2.45178643552429
+tt5955792,movie,Las Reglas de la Ruina,2018,90,Horror,4.7,141,Dhbansēra Niẏama,IN,bn,0,False,Modern,2.1522883443830563
+tt6070438,movie,Teardrops of Karnaphuli,2005,60,Documentary,8.6,17,Karnaphulir Kanna,BD,bn,0,True,Modern,1.255272505103306
+tt6143982,movie,Saturday Afternoon,2019,83,"Drama,Thriller",6.2,931,Holey Bakery,BD,bn,0,False,Modern,2.9694159123539814
+tt6146586,movie,John Wick: Chapter 3 - Parabellum,2019,130,"Action,Crime,Drama",7.4,474023,John Wick: Chapter 3 - Parabellum,IN,bn,0,False,Modern,5.675800330711426
+tt6158818,movie,The Caveman,2019,124,"Drama,Family",4.2,6,Guha Manab,IN,bn,0,True,Modern,0.8450980400142568
+tt6159268,movie,The Nanny,2018,80,"Fantasy,Horror,Thriller",4.1,1261,A Babá,BD,bn,0,True,Modern,3.1010593549081156
+tt6203612,movie,Santhu Straight Forward,2016,159,"Action,Drama,Romance",6.5,1103,Rambo Straight Forward,IN,bn,0,False,Modern,3.0429690733931802
+tt6340112,movie,Bogan,2017,160,"Action,Fantasy",6.4,2285,Vikram Aditya,IN,bn,0,False,Modern,3.359076226059263
+tt6361260,movie,Bisorjon,2017,138,Drama,7.7,970,Bishorjan,IN,bn,0,False,Modern,2.9872192299080047
+tt6384376,movie,Colours of Innocence,2016,81,Drama,8.4,687,Sahaj Paather Gappo,IN,bn,0,True,Modern,2.837588438235511
+tt6454720,movie,Simantorekha,2017,145,Documentary,9.0,18,Seemantorekha,BD,bn,0,False,Modern,1.2787536009528289
+tt6456004,movie,Tajuddin Ahmad: An Unsung Hero,2007,100,Documentary,8.7,10,Nissongo Sarathi,BD,bn,0,True,Modern,1.0413926851582251
+tt6460188,movie,The Japanese Wife,2012,67,Documentary,8.0,15,Japani Bodhu,BD,bn,0,True,Modern,1.2041199826559248
+tt6468814,movie,Touch Chesi Chudu,2018,147,Action,4.8,1272,Power Unlimited,IN,bn,0,False,Modern,3.1048284036536553
+tt6522398,movie,Katamarayudu,2017,146,"Action,Comedy",5.5,2980,Mohayuddho,IN,bn,0,False,Modern,3.4743619760326307
+tt6546086,movie,Dhatteriki,2017,,"Comedy,Romance",5.0,109,Dhat Teri Ki,BD,bn,0,False,Modern,2.041392685158225
+tt6547964,movie,Ekattorer Nishan,2016,97,"Drama,Family,War",6.1,9,71's Nishan,BD,bn,0,False,Modern,1.0
+tt6964396,movie,Tyaag,2004,156,"Action,Romance",6.2,8,Tyag,IN,bn,0,False,Modern,0.9542425094393249
+tt7004266,movie,Tumi Sudhu Amar,2018,142,"Drama,Romance",5.8,40,Tui Sudhu Amar,IN,bn,0,False,Modern,1.6127838567197355
+tt7066030,movie,Boss 2,2017,136,Action,5.0,855,Boss 2: Back to Rule,IN,bn,0,False,Modern,2.932473764677153
+tt7156814,movie,The Innocence,2019,1260,Drama,7.2,65,Amra ekta cinema banabo,IN,bn,0,True,Modern,1.8195439355418688
+tt7156814,movie,The Innocence,2019,1260,Drama,7.2,65,Amra Ekta Cinema Banabo,BD,bn,0,True,Modern,1.8195439355418688
+tt7188742,movie,Paisa Vasool,2017,138,"Action,Comedy",4.2,968,Poysa Usul,IN,bn,0,False,Modern,2.986323777050765
+tt7250226,movie,Chhaya O Chhobi,2017,129,Drama,6.7,234,Chaya O Chobi,IN,bn,0,False,Modern,2.3710678622717363
+tt7286456,movie,Joker,2019,122,"Crime,Drama,Thriller",8.3,1670175,Joker,IN,bn,0,False,Modern,6.222762238693297
+tt7322816,movie,Vunnadhi Okate Zindagi,2017,152,Drama,6.4,1620,Bandhu Tomaye,IN,bn,0,False,Modern,3.209783014848515
+tt7603808,movie,Shedin Brishti Chilo,2014,139,"Action,Drama,Horror",1.8,17,Sedin bristi cehlo,BD,bn,0,False,Modern,1.255272505103306
+tt7603808,movie,Shedin Brishti Chilo,2014,139,"Action,Drama,Horror",1.8,17,Shedin brishti chilo,BD,bn,0,False,Modern,1.255272505103306
+tt7711342,movie,Agnyaathavaasi: Prince in Exile,2018,158,"Action,Drama",4.3,3949,Ek Baazigar,IN,bn,0,True,Modern,3.59659709562646
+tt7715202,movie,Sarkar,2018,163,"Action,Drama",6.7,23667,Original Sarkar,IN,bn,0,False,Modern,4.374161560604974
+tt7808072,movie,The Eunuch and the Flute Player,2017,115,Drama,8.5,1010,Nagarkirtan,IN,bn,0,True,Modern,3.004751155591001
+tt7808216,movie,Nilachaley Kiriti,2018,115,Thriller,5.7,254,Nilacholey Kiriti,IN,bn,0,False,Modern,2.406540180433955
+tt7856166,movie,Sailaja Reddy Alludu,2018,147,"Action,Comedy,Drama",5.1,1099,Jamai Ami Hit,IN,bn,0,False,Modern,3.041392685158225
+tt8007826,movie,In Pursuit of Love,2021,100,Drama,9.1,14,Jodi Ektu Somoy Petam,BD,bn,0,True,Modern,1.1760912590556813
+tt8072400,movie,Hello Guru Prema Kosame,2018,140,"Comedy,Romance",7.1,3708,Prem Korechhi Korboi Toh,BD,bn,0,False,Modern,3.5692568333286103
+tt8133888,movie,Nela Ticket,2018,120,"Action,Drama",4.3,1016,Total Herogiri,IN,bn,0,False,Modern,3.0073209529227447
+tt8147262,movie,Made in Bangladesh,2019,95,Drama,6.9,548,Shimu,BD,bn,0,True,Modern,2.739572344450092
+tt8147262,movie,Made in Bangladesh,2019,95,Drama,6.9,548,Shimu: Made in Bangladesh,BD,bn,0,True,Modern,2.739572344450092
+tt8289664,movie,Khelechi Aajgubi,2018,,Comedy,4.3,13,Tiki Taka,IN,bn,0,False,Modern,1.146128035678238
+tt8427416,movie,Bhobishyoter Bhoot,2018,131,"Comedy,Horror",5.7,340,Bhobishyoter Bhoot,IN,bn,0,False,Modern,2.5327543789924976
+tt8435324,movie,Bombay Rose,2019,97,"Animation,Drama,Romance",6.5,883,Bōmbē rōja,BD,bn,0,False,Modern,2.946452265013073
+tt8782620,movie,Pariah,2020,106,"Drama,Fantasy,Thriller",8.8,18,Khyapa,IN,bn,0,False,Modern,1.2787536009528289
+tt8924916,movie,Jonbai,2005,71,"Drama,Musical,Romance",8.8,35,Junbai,IN,bn,0,False,Modern,1.5563025007672873
+tt8958304,movie,"Sincerely Yours, Dhaka",2018,134,Drama,7.0,786,"Eti, Tomari Dhaka",BD,bn,0,False,Modern,2.8959747323590648
+tt9044418,movie,MR-9: Do or Die,2023,106,"Action,Drama,Thriller",3.4,1510,Masud Rana,BD,bn,0,False,Modern,3.1792644643390253
+tt9194978,movie,Reunion,2018,120,Drama,6.1,41,Reunion,IN,bn,0,False,Modern,1.6232492903979006
+tt9319896,movie,Airaa,2019,142,"Drama,Horror",4.7,858,Jomuna O Projaaoti Rohoshyo,IN,bn,0,False,Modern,2.9339931638312424
