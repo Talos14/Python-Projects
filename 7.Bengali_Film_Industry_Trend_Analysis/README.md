@@ -57,6 +57,32 @@ Winner-takes-all visibility despite increased production diversity.
 
 ---
 
+### 📊 Visual Evidence
+ 
+**1. Engagement Trends: The Shape Shift**
+ 
+![Engagement Trends Over Time](assets/engagement_trends.png)
+ 
+*Left (classics era): Recurring peaks—films accumulate engagement over time, creating cultural moments. Right (modern era): Flatter baseline—most films plateau quickly regardless of when released.*
+ 
+---
+ 
+**2. Quality No Longer Predicts Reach**
+ 
+![Ratings vs Audience Engagement](assets/ratings_vs_engagement.png)
+ 
+*Green line (classics): Higher IMDb ratings = more votes. Clean relationship. Blue line (modern): Nearly flat—a 9-rated film gets the same engagement as a 4-rated film. Quality is decoupled from visibility.*
+ 
+---
+ 
+**3. Attention Concentration: The Winner-Takes-All Effect**
+ 
+![Gini Coefficient Shift](assets/gini_coefficient.png)
+ 
+*Gini coefficient measures inequality in attention distribution. 0.81 → 0.96 means modern audiences concentrate their votes on a shrinking number of films, even as production diversifies.*
+ 
+---
+
 ## The Pattern
 
 ```
