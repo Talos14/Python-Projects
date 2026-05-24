@@ -69,7 +69,7 @@ Winner-takes-all visibility despite increased production diversity.
  
 **2. Quality No Longer Predicts Reach**
  
-![Ratings vs Audience Engagement](assets/ratings_vs_engagement.png)
+![Ratings vs Audience Engagement](assets/ratings_vs_engagements.png)
  
 *Green line (classics): Higher IMDb ratings = more votes. Clean relationship. Blue line (modern): Nearly flat—a 9-rated film gets the same engagement as a 4-rated film. Quality is decoupled from visibility.*
  
