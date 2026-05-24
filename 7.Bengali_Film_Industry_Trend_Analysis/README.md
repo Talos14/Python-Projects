@@ -2,6 +2,10 @@
 
 > How did Bengali cinema shift from building enduring classics to fragmenting audience attention across dozens of forgettable films?
 
+<div align="center">
+  <img src="assets/Banner.png" width="100%" alt="Exploratory Analysis Report">
+</div>
+
 A data-driven exploratory analysis of structural transformation in Bengali cinema across two eras: **classics (1960s–1990s)** vs **modern (2000s–2020s)**.
 
 [![Python 3.13.2](https://img.shields.io/badge/Python-3.13.2-blue?logo=python&logoColor=white)](https://www.python.org/)
